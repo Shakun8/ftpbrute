@@ -1,2 +1,2 @@
 # ftpbrute
-FTP BRUTER | Try To find password !! 
+FTP BRUTER | Try To find the Passwords !! 
